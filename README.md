@@ -1,4 +1,4 @@
-## Principles of ML 1 Final Project
+## CS 363M Principles of ML Final Project
 
 Analysis and modeling of a large airline dataset to predict customer satisfaction and determine factors affecting satisfaction. 
 
